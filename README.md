@@ -1,3 +1,10 @@
+Follow main notbook to classifying scenes for fvqa images
+
+main.ipynb
+
+easy setup to run on google colab
+
+
 # Keras | VGG16 Places365 - VGG16 CNN models pre-trained on Places365-Standard for scene classification 
 ![Keras logo](https://i.imgur.com/c9r5WFp.png) 
 
